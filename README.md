@@ -1,6 +1,6 @@
-# flutter_application_gg
+# flutter_application_location_saver
 
-A new Flutter project.
+A project to save the location name and picture of places visited .
 
 ## Getting Started
 
